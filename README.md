@@ -8,3 +8,5 @@ This repo is to track '30 Days of ML' challege from Kaggle
 ## Day3: https://www.kaggle.com/colinmorris/functions-and-getting-help
 
 ## Day4: https://www.kaggle.com/colinmorris/booleans-and-conditionals
+
+## Day5: https://www.kaggle.com/colinmorris/lists
