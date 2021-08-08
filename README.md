@@ -9,4 +9,6 @@ This repo is to track '30 Days of ML' challege from Kaggle
 
 ## Day4: https://www.kaggle.com/colinmorris/booleans-and-conditionals
 
-## Day5: https://www.kaggle.com/colinmorris/lists
+## Day5: https://www.kaggle.com/colinmorris/lists & https://www.kaggle.com/colinmorris/loops-and-list-comprehensions
+
+## Day6: https://www.kaggle.com/colinmorris/strings-and-dictionaries
