@@ -12,3 +12,5 @@ This repo is to track '30 Days of ML' challege from Kaggle
 ## Day5: https://www.kaggle.com/colinmorris/lists & https://www.kaggle.com/colinmorris/loops-and-list-comprehensions
 
 ## Day6: https://www.kaggle.com/colinmorris/strings-and-dictionaries
+
+## Day7: https://www.kaggle.com/colinmorris/working-with-external-libraries
