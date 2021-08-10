@@ -14,3 +14,5 @@ This repo is to track '30 Days of ML' challege from Kaggle
 ## Day6: https://www.kaggle.com/colinmorris/strings-and-dictionaries
 
 ## Day7: https://www.kaggle.com/colinmorris/working-with-external-libraries
+
+## Day8: https://www.kaggle.com/dansbecker/how-models-work & https://www.kaggle.com/dansbecker/basic-data-exploration
