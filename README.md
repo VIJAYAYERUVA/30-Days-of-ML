@@ -16,3 +16,5 @@ This repo is to track '30 Days of ML' challege from Kaggle
 ## Day7: https://www.kaggle.com/colinmorris/working-with-external-libraries
 
 ## Day8: https://www.kaggle.com/dansbecker/how-models-work & https://www.kaggle.com/dansbecker/basic-data-exploration
+
+## Day9: https://www.kaggle.com/dansbecker/your-first-machine-learning-model & https://www.kaggle.com/dansbecker/model-validation
