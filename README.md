@@ -20,3 +20,7 @@ This repo is to track '30 Days of ML' challege from Kaggle
 ## Day9: https://www.kaggle.com/dansbecker/your-first-machine-learning-model & https://www.kaggle.com/dansbecker/model-validation
 
 ## Day10: https://www.kaggle.com/dansbecker/underfitting-and-overfitting & https://www.kaggle.com/dansbecker/random-forests
+
+## Day11: https://www.kaggle.com/alexisbcook/machine-learning-competitions
+
+## Day12: https://www.kaggle.com/alexisbcook/introduction & https://www.kaggle.com/alexisbcook/missing-values & https://www.kaggle.com/alexisbcook/categorical-variables
