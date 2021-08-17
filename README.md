@@ -28,3 +28,5 @@ This repo is to track '30 Days of ML' challege from Kaggle
 ## Day13: https://www.kaggle.com/alexisbcook/pipelines & https://www.kaggle.com/alexisbcook/cross-validation
 
 ## Day14: https://www.kaggle.com/alexisbcook/xgboost & https://www.kaggle.com/alexisbcook/data-leakage
+
+## Day15: https://www.kaggle.com/c/30-days-of-ml
