@@ -42,3 +42,5 @@ This repo is to track '30 Days of ML' challege from Kaggle
 ## Day20: Improving Results
 
 ## Day21: Improving Results
+
+## Day22: Improving Results
