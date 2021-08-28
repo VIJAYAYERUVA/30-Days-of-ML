@@ -50,3 +50,5 @@ This repo is to track '30 Days of ML' challege from Kaggle
 ## Day24: Improving Results
 
 ## Day25: Improving Results
+
+## Day26: Improving Results
